@@ -12,7 +12,7 @@
     "git.autorefresh": true,
     "CRS.RenameWithGit": false,
     "CRS.OnSaveAlFileAction": "Reorganize",
-    "CRS.RemoveSuffixFromFilename": true,
+    "CRS.RemoveSuffixFromFilename": false,
     "CRS.FileNamePattern": "<ObjectNameShort>.<ObjectTypeShortPascalCase>.al",
     "CRS.FileNamePatternExtensions": "<ObjectNameShort>.<ObjectTypeShortPascalCase>.al",
     "CRS.FileNamePatternPageCustomizations": "<ObjectNameShort>.<ObjectTypeShortPascalCase>.al",
